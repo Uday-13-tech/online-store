@@ -1,0 +1,6 @@
+{
+  "name": "Online Store - Spring Boot & React",
+  "description": "E-Commerce Online Store featuring product catalog, search, shopping cart, order history, and complete Java Spring Boot backend source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
